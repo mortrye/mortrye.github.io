@@ -1,5 +1,4 @@
 
-# Mort Rye
 
 What will go here?
 * [Link to A Pragmatic Guide to UFOs](https://mortrye.github.io/ufo-guide/)
